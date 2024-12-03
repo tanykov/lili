@@ -23,6 +23,7 @@ namespace lili
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("asdasd")
         }
     }
 }
